@@ -1,0 +1,63 @@
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\bin\Debug\TTMSS.exe.config
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\bin\Debug\TTMSS.exe
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\bin\Debug\TTMSS.pdb
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\bin\Debug\Guna.UI2.dll
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.csproj.AssemblyReference.cache
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.Properties.Resources.resources
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.csproj.GenerateResource.cache
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.csproj.CoreCompileInputs.cache
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.csproj.Up2Date
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.exe
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.pdb
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.Form1.resources
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.Student.resources
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.StudentReg.resources
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher.resources
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_AddNewQuestion.resources
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_updateQuestion.resources
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_ViewDeleteQuetsion.resources
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.Result.resources
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_result.resources
+C:\Users\LeBON\Pictures\Camera Roll\app\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_mark.resources
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\bin\Debug\TTMSS.exe.config
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\bin\Debug\TTMSS.exe
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\bin\Debug\TTMSS.pdb
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.Form1.resources
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.Properties.Resources.resources
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.Result.resources
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.Student.resources
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.StudentReg.resources
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher.resources
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_AddNewQuestion.resources
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_mark.resources
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_result.resources
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_updateQuestion.resources
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_ViewDeleteQuetsion.resources
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.csproj.GenerateResource.cache
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.csproj.Up2Date
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.exe
+C:\Users\DELL\Source\Repos\Tutorial-Management-System-\TTMSS\TTMSS\obj\Debug\TTMSS.pdb
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\bin\Debug\TTMSS.exe.config
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\bin\Debug\TTMSS.exe
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\bin\Debug\TTMSS.pdb
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\bin\Debug\Guna.UI2.dll
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.csproj.AssemblyReference.cache
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.Form1.resources
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.Properties.Resources.resources
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.Result.resources
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.Student.resources
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.StudentReg.resources
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher.resources
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_AddNewQuestion.resources
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_mark.resources
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_result.resources
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_updateQuestion.resources
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.Teacher_UC.UC_ViewDeleteQuetsion.resources
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.csproj.GenerateResource.cache
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.csproj.CoreCompileInputs.cache
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.csproj.Up2Date
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.exe
+D:\Games\Tutorial-Management-System--main\TTMSS\TTMSS\obj\Debug\TTMSS.pdb

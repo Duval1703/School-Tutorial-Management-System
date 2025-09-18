@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5B37E6BC-7715-473B-B080-9F01C3AD7298}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TTMSS</RootNamespace>
+    <AssemblyName>TTMSS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="function.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result.Designer.cs">
+      <DependentUpon>Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student.Designer.cs">
+      <DependentUpon>Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentReg.Designer.cs">
+      <DependentUpon>StudentReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher.Designer.cs">
+      <DependentUpon>Teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher_UC\UC_AddNewQuestion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Teacher_UC\UC_AddNewQuestion.Designer.cs">
+      <DependentUpon>UC_AddNewQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher_UC\UC_mark.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Teacher_UC\UC_mark.Designer.cs">
+      <DependentUpon>UC_mark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher_UC\UC_result.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Teacher_UC\UC_result.Designer.cs">
+      <DependentUpon>UC_result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher_UC\UC_updateQuestion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Teacher_UC\UC_updateQuestion.Designer.cs">
+      <DependentUpon>UC_updateQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher_UC\UC_ViewDeleteQuetsion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Teacher_UC\UC_ViewDeleteQuetsion.Designer.cs">
+      <DependentUpon>UC_ViewDeleteQuetsion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TMSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TMSDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Result.resx">
+      <DependentUpon>Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student.resx">
+      <DependentUpon>Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentReg.resx">
+      <DependentUpon>StudentReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher.resx">
+      <DependentUpon>Teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher_UC\UC_AddNewQuestion.resx">
+      <DependentUpon>UC_AddNewQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher_UC\UC_mark.resx">
+      <DependentUpon>UC_mark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher_UC\UC_result.resx">
+      <DependentUpon>UC_result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher_UC\UC_updateQuestion.resx">
+      <DependentUpon>UC_updateQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher_UC\UC_ViewDeleteQuetsion.resx">
+      <DependentUpon>UC_ViewDeleteQuetsion.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TMSDataSet.xsc">
+      <DependentUpon>TMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TMSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TMSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TMSDataSet.xss">
+      <DependentUpon>TMSDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
